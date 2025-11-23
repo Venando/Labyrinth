@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f4725bf28e7c414a83a302156a29799, type: 3}
+  m_Name: TilesSettings
+  m_EditorClassIdentifier: 
+  FloorTiles:
+  - {fileID: 11400000, guid: 73115168dda12d14ea2d6823a25260c4, type: 2}
+  - {fileID: 11400000, guid: f0c04ce545c77d040a013fd07f5e4d82, type: 2}
+  - {fileID: 11400000, guid: c48c0c18b7d4d264b86e0d252ffc629a, type: 2}
+  - {fileID: 11400000, guid: 5e86015b8fc69d24db48840ba71ba7e5, type: 2}
+  - {fileID: 11400000, guid: 3e04c5b2d8f6be74b8cd09a6af64e8e3, type: 2}
+  ExitTiles: {fileID: 11400000, guid: e78f9c54f8d3f4e44b24f28da6980917, type: 2}
+  WallTiles:
+  - {fileID: 11400000, guid: 0e81bf34ef1e6f2449246000e06b7841, type: 2}
+  - {fileID: 11400000, guid: 982648b2dabbe464b9798b91e64f57fb, type: 2}
+  - {fileID: 11400000, guid: c96f1052b6019734da1291ba6d64c5fa, type: 2}
+  - {fileID: 11400000, guid: 0c0941f33c29a25428afb7f5b10ab778, type: 2}
+  - {fileID: 11400000, guid: e7f223061178ece40b7173e88e1f033e, type: 2}
+  - {fileID: 11400000, guid: 42cd371ac3b1d7c45af7f53b0695f46f, type: 2}
+  - {fileID: 11400000, guid: 65f9ea6bae4b56f448ef5704c8186d84, type: 2}
+  - {fileID: 11400000, guid: a521113d4b08ed548a906417508eac47, type: 2}
+  - {fileID: 11400000, guid: b881a5eae36beb94a986aadb6b577516, type: 2}
+  - {fileID: 11400000, guid: c4bc4f900eb7b0d4dbc6ecbfe02370ef, type: 2}
+  - {fileID: 11400000, guid: 935fdbdcf08df204c93367bc47d8eff4, type: 2}
+  - {fileID: 11400000, guid: 3034019caffc5db4d88cddf413f139be, type: 2}
+  - {fileID: 11400000, guid: 9e7148bd071c63c4e8229ef35bc845a0, type: 2}
+  - {fileID: 11400000, guid: ac54efd4d535eba4d8b278d708006fdd, type: 2}
+  - {fileID: 11400000, guid: ffa4330dd900ee74e97a8326a50ff95a, type: 2}
+  - {fileID: 11400000, guid: 15a2af3b2ba6450408f008b0f08b9141, type: 2}
+  - {fileID: 11400000, guid: 39c438287e5c62943bc4fc425bfdc5e5, type: 2}
+  - {fileID: 11400000, guid: 217538e32a9b6a24ebd31702a3475be2, type: 2}
+  - {fileID: 11400000, guid: a6eb84a6d168c044783b71a8a0031909, type: 2}
+  FogTiles:
+  - {fileID: 11400000, guid: d57e5fc06393f1b47836a4656b330d3c, type: 2}
