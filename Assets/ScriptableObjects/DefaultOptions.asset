@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: DefaultOptions
   m_EditorClassIdentifier: 
   characterMoveSpeed: 5
-  mazeSize: 20
+  mazeSize: 25
